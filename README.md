@@ -2,6 +2,8 @@
 
 this section for explain **API** Typescript MongoDB
 
+Hosted API link : https://sinta-tsmongo.herokuapp.com/
+
 1. Product
    - Create Product
    - Get All Products
@@ -11,6 +13,21 @@ this section for explain **API** Typescript MongoDB
 2. Sale
    - Create Sale Order By Product
    - Get All Sales
+
+## PING API
+| Command        | Method | Routes             | Description                          |
+| -------------- | ------ | ------------------ | ------------------------------------ |
+| PING API | POST   | `/ping` | this endpoint for ping or test the server |
+
+https://sinta-tsmongo.herokuapp.com/ping
+
+### Response
+
+```json
+{
+  "ping": "success"
+}
+```
 
 ## Product - Create Product
 <<<<<<< HEAD
