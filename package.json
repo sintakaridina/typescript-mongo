@@ -1,5 +1,5 @@
 {
-  "name": "express-mongo-typescript",
+  "name": "typescript-mongo",
   "version": "1.0.0",
   "description": "",
   "main": "src/server.ts",
